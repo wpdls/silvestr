@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    text-align: center;
+    /* padding: 50px 100px 10px 0px; */
+}
+
+body {
+    
+    background-image: url('background.png');
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+img {
+    width: 20rem;
+    height: 20rem;
+    position: relative;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    /* border: 15px solid white; */
+  
+}
+
+h1 {
+    background: white left top/50% 50%;
+    width: 30%;
+    text-align: left;
+    
+}
+
+p {
+    background: white left top/50% 50%;
+    font-size: 130%;
+    width: 50%;
+    text-align: justify;
+    
+   
+}
