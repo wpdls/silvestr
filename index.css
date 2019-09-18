@@ -35,6 +35,7 @@ img {
 .container {
     text-align: center;
     /* border: 15px solid white; */
+   padding-left: 10rem;
   
 }
 
@@ -49,7 +50,7 @@ p {
     background: white left top/50% 50%;
     font-size: 130%;
     width: 50%;
-    text-align: justify;
+    text-align: 
     
    
 }
